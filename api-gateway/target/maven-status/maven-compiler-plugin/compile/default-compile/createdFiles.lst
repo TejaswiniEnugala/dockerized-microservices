@@ -1,0 +1,5 @@
+com/stackroute/filters/RouteFilter.class
+com/stackroute/filters/PostFilter.class
+com/stackroute/apigateway/ApiGatewayApplication.class
+com/stackroute/filters/ErrorFilter.class
+com/stackroute/filters/PreFilter.class
